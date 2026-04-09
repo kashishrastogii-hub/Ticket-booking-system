@@ -19,7 +19,7 @@ A command-line based train ticket booking application built with Java. It is des
 
 # Project Structure
 app/src/main/java/ticket/booking/
-├── entities/       # Train, User, Ticket models
+|--- entities/      # Train, User, Ticket models
 ├── services/       # TrainService, UserBookingService
 ├── util/           # UserServiceUtil
 └── LocalDB/        # trains.json, users.json
