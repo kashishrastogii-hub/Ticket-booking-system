@@ -11,6 +11,8 @@ A command-line based train ticket booking application built with Java. It is des
 
 # 🛠️ Technologies Used
 - 🔹 Java – Core logic and implementation
+- 🔹 Jackson – JSON parsing
+- 🔹 BCrypt – Password hashing 
 - 🔹 Gradle – Build automation and dependency management
 - 🔹 Collections & Streams API – Efficient data handling
 - 🔹 OOP Principles – Encapsulation, Abstraction, and Polymorphism
