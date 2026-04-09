@@ -1,0 +1,43 @@
+[ {
+  "username" : "bug",
+  "password" : "fixed",
+  "hashPassword" : "$2a$10$EqL0uYQDqvTeINEJWp.fdOubTN/T9RDOBj1/zgAEUH1xLwyA4ppKS",
+  "ticketsBooked" : [ ],
+  "userId" : "f3ccde78-e7c7-481c-9b5b-b4bacf772d5d"
+}, {
+  "username" : "signupTesting",
+  "password" : "testing",
+  "hashPassword" : "$2a$10$UrjL7jbCekl8ekvcpn8yke82pMmbDAPbn95/AR1GpDttONaUpGsky",
+  "ticketsBooked" : [ ],
+  "userId" : "6c8c4ff6-477f-404c-9e97-b842c55a3131"
+}, {
+  "username" : "Hello",
+  "password" : "World",
+  "hashPassword" : "$2a$10$Vj1E9zbWmSU.zAl24uujJ.rStp90FCEhhYLCWPFUezDVKwCHpFvRG",
+  "ticketsBooked" : [ ],
+  "userId" : "243c8da8-f739-431c-9b5b-1b6a4dd12885"
+}, {
+  "username" : "a",
+  "password" : "b",
+  "hashPassword" : "$2a$10$a1GCjTc1YhWpxQ3RPjJLrOAGXs0GlQX.lSONodi7JPFK8BCO0pGxa",
+  "ticketsBooked" : [ ],
+  "userId" : "2177f39a-3e91-4bd5-b9db-1d5836859e3c"
+}, {
+  "username" : "2",
+  "password" : "f",
+  "hashPassword" : "$2a$10$HSdtu1lqYYb3Z.QgQimijORIlxdJ5EN4qS1grRZjXgzt2SXp9N0Ti",
+  "ticketsBooked" : [ ],
+  "userId" : "125f1a3a-c1c2-4330-baeb-35d46f799468"
+}, {
+  "username" : "f",
+  "password" : "f",
+  "hashPassword" : "$2a$10$Ww//xPCmZ2v4GOk1k64vruhSJ7xr7Gs.A//vRbFqDTRLyQa.pt2Ui",
+  "ticketsBooked" : [ ],
+  "userId" : "d6c0516e-5228-47b9-a469-5aedbe7f12b2"
+}, {
+  "username" : "kashish",
+  "password" : "rastogi",
+  "hashPassword" : "$2a$10$FzXgwOFpxgWJ7ZtrLq0jCufc0i98bWq3ebZH68vkV/iBfoU3EIdIa",
+  "ticketsBooked" : [ ],
+  "userId" : "d53c4f82-9224-44df-b084-39a2307c80c5"
+} ]
