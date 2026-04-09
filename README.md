@@ -17,13 +17,6 @@ A command-line based train ticket booking application built with Java. It is des
 - 🔹 Collections & Streams API – Efficient data handling
 - 🔹 OOP Principles – Encapsulation, Abstraction, and Polymorphism
 
-# Project Structure
-app/src/main/java/ticket/booking/
-|--- entities/      # Train, User, Ticket models
-├── services/       # TrainService, UserBookingService
-├── util/           # UserServiceUtil
-└── LocalDB/        # trains.json, users.json
-
 # Usage
 1. SignUp
 2. Login
